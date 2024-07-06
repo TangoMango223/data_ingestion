@@ -1,0 +1,6 @@
+SQLAlchemy==2.0.31
+pandas==2.2.2
+pyodbc== 5.1.0
+requests==2.32.3
+notebook==7.2.1
+
